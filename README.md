@@ -4,7 +4,7 @@
 ### AVD Pixel 5 API 30
 #### Height = 2340
 #### Width = 1080
-
+### Menggunakan Expo CLI karena React Native CLI for Windows Tidak Bisa dipakai
 ## Project ini telah dibuat oleh:
 
 ## Delza Anannjaya
