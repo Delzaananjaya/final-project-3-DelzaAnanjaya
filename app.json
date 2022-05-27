@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "reservation-hotel-app",
+    "slug": "reservation-hotel-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/icon.png",
+    "splash": {
+      "image": "./src/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#4D4D4D"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/icon.png",
+        "backgroundColor": "#4D4D4D"
+      },
+      "package": "expo.reservation.hotel"
+    },
+    "web": {
+      "favicon": "./src/assets/favicon/favicon.ico"
+    }
+  }
+}
